@@ -1,0 +1,13 @@
+{ 
+
+    "attributes":[
+        {
+            "color":"Blue",
+            "value":"ABC"
+        }
+    ],
+    "description":"This is a nice picture.",
+    "image":"https://tomato-immense-tapir-963.mypinata.cloud/ipfs/QmTpJYJTze3bXt3T7iQoXNMPkigcWBw6CVJYM7juQaQR8k?_gl=1*1hzwj46*_ga*NzQxMTMzMTkzLjE2OTgzODAyMzU.*_ga_5RMPXG14TE*MTY5ODM4MDIzNS4xLjEuMTY5ODM4MjM4Ny4yOS4wLjA.",
+
+    "name":"background"
+}
